@@ -18,7 +18,7 @@ This is a fully functional blog application built using Flask as the backend fra
 ## Installation
 1. Clone the repository from GitHub:
         
-        git clone https://github.com/Siddharth-2382/Personal-Blog-Web-App.git
+
 2. Install the required packages:
         
         cd Personal-Blog-Web-App
